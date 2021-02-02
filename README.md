@@ -30,7 +30,7 @@ build, reporting and documentation from a central piece of information.
 
 If you think you have found a bug, please file an issue in the [Maven Issue Tracker][jira].
 
-Documentation
+Documentation:
 -------------
 
 More information can be found on [Apache Maven Homepage][maven-home].
